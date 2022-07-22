@@ -1,1 +1,2 @@
 โปรเจคนี้เป็นการฝึกโปรแกรมพื้นฐานสำหรับใช้ทำงานในอนาคต
+![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/notza/Downloads/291607815_1051885459544624_2392094960898954802_n.jpg?version%3D1658483325568)
