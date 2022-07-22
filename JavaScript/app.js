@@ -6,7 +6,7 @@
 // console.error("virus");
 // console.warn("mistake");
 alert("สวัสดี");
-console.log("หน้าหมี")
+
 
 
 //การสร้างตัวแปร
