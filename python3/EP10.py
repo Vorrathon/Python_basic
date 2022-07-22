@@ -1,7 +1,7 @@
-#ลำดับความสำคัญของตัวดำเนินการ
-x= 5+10*5
+# ลำดับความสำคัญของตัวดำเนินการ
+x = 5+10*5
 print(x)
-y= (5+10)*5 
+y = (5+10)*5
 print(y)
 z = (5+2)*10/5
 zz = (5+2)/10*5
@@ -10,7 +10,7 @@ print(z)
 print(zz)
 print(xx)
 print("Hello world fff")
-print ("Vorrathon")
+print("Vorrathon")
 print("xxxxxxxx")
 print(x+y)
 print(x+y+z)
