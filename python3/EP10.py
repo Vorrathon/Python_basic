@@ -14,3 +14,5 @@ print ("Vorrathon")
 print("xxxxxxxx")
 print(x+y)
 print(x+y+z)
+for i in range(4):
+    print("โด้หน้าหี")
