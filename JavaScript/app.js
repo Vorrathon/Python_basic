@@ -6,6 +6,7 @@
 // console.error("virus");
 // console.warn("mistake");
 alert("สวัสดี");
+console.log("หน้าหมี")
 
 //การสร้างตัวแปร
 // let Name = 200; //สร้างตัวแปรสามารถเปลี่ยนค่าตัวแปรทีหลังได้
