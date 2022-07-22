@@ -5,6 +5,7 @@
 // console.log("hello javascript"); //การแสดงข้อความผ่าน tab console ไม่แสดงผลหน้าเว็บ
 // console.error("virus");
 // console.warn("mistake");
+alert("สวัสดี");
 
 //การสร้างตัวแปร
 // let Name = 200; //สร้างตัวแปรสามารถเปลี่ยนค่าตัวแปรทีหลังได้
